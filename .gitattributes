@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.py linguist-language=Python
+tests/fixtures/** linguist-detectable=false
+docs/** linguist-documentation=true
